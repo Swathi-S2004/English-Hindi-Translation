@@ -43,10 +43,11 @@ parallel_dataset/
 ```bash
 git clone https://github.com/Swathi-S2004/English-Hindi-Translation
 cd English-Hindi-Translation
+```
 
 2. Install required packages:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Alternatively, if running in Google Colab, the notebook installs the packages automatically.
 
@@ -59,7 +60,7 @@ Alternatively, if running in Google Colab, the notebook installs the packages au
 3. Run all cells sequentially.
 
 4. Interact with the Gradio interface to input English sentences and get Hindi translations in real-time.
-```
+
 ---
 
 ## Evaluation
