@@ -59,7 +59,7 @@ Alternatively, if running in Google Colab, the notebook installs the packages au
 3. Run all cells sequentially.
 
 4. Interact with the Gradio interface to input English sentences and get Hindi translations in real-time.
-
+```
 ---
 
 ## Evaluation
@@ -80,3 +80,4 @@ Predicted Hindi Output: मुझे कृत्रिम बुद्धि �
 ## Author
 
 Swathi Selvaraj
+
