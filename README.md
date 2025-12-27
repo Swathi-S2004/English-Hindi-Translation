@@ -41,7 +41,7 @@ parallel_dataset/
 1. Clone this repository:
 
 ```bash
-git clone 
+git clone https://github.com/Swathi-S2004/English-Hindi-Translation
 cd 
 
 2. Install required packages:
