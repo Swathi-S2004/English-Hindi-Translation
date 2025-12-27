@@ -74,6 +74,7 @@ Alternatively, if running in Google Colab, the notebook installs the packages au
 ## Demo Example
 
 English Input: I love learning artificial intelligence
+
 Predicted Hindi Output: मुझे कृत्रिम बुद्धि सीखना अच्छा लगता है
 
 ---
