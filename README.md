@@ -65,9 +65,9 @@ Alternatively, if running in Google Colab, the notebook installs the packages au
 
 ## Evaluation
 
-1.The BLEU score is calculated for a small subset of sentences to evaluate translation quality.
+ 1.The BLEU score is calculated for a small subset of sentences to evaluate translation quality.
 
-2. BLEU measures how close the model translations are to the reference human translations.
+ 2. BLEU measures how close the model translations are to the reference human translations.
 
 ---
 
