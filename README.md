@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 Alternatively, if running in Google Colab, the notebook installs the packages automatically.
 
-Usage
+## Usage
 
 1. Place the downloaded dataset zip file (parallel.zip) in the same folder as the notebook.
 
@@ -62,7 +62,7 @@ Usage
 
 ---
 
-Evaluation
+## Evaluation
 
 1.The BLEU score is calculated for a small subset of sentences to evaluate translation quality.
 
@@ -70,13 +70,13 @@ Evaluation
 
 ---
 
-Demo Example
+## Demo Example
 
 English Input: I love learning artificial intelligence
 Predicted Hindi Output: मुझे कृत्रिम बुद्धि सीखना अच्छा लगता है
 
 ---
 
-Author
+## Author
 
 Swathi Selvaraj
