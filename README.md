@@ -60,16 +60,19 @@ Usage
 
 4. Interact with the Gradio interface to input English sentences and get Hindi translations in real-time.
 
+
 Evaluation
 
 1.The BLEU score is calculated for a small subset of sentences to evaluate translation quality.
 
 2. BLEU measures how close the model translations are to the reference human translations.
 
+
 Demo Example
 
 English Input: I love learning artificial intelligence
 Predicted Hindi Output: मुझे कृत्रिम बुद्धि सीखना अच्छा लगता है
+
 
 Author
 
